@@ -3,5 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
-
+<ItemGroup>
+  <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0" />
+</ItemGroup>
 </Project>
